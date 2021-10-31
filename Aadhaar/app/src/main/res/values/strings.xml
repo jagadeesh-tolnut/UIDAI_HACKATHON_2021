@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aadhaar</string>
+    <string name="user_id">User ID</string>
+    <string name="operator_login_image">Operator Login Image</string>
+
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="aadhaar_number">Aadhaar number</string>
+    <string name="resend_otp"><b><u>Resend OTP</u></b></string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP</string>
+    <string name="update_address">Update Address</string>
+    <string name="house_building_apartment">House/Building/Apartment</string>
+    <string name="street_road_lane">Street/Road/Lane</string>
+    <string name="area_locality_sector">Area/Locality/Sector</string>
+    <string name="landmark">Landmark</string>
+    <string name="village_town_city">Village/Town/City</string>
+    <string name="click_button_to_update_address">Click Button To Update Address</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+</resources>
